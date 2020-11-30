@@ -16,7 +16,3 @@ int main() {
   }
 }
 
-ISR(INTO_vect){
-  state = !state;
-  digitalWrite(12, state);
-}
