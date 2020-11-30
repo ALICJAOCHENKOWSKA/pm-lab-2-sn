@@ -13,4 +13,5 @@ Numer albumu: 72542
 Grupa studencka: WELE18DE1S1
 
 # Pytania do zadań z instrukcji
-
+odpowiedź na zadanie 2.2.1 
+poprzez zmianę wartości zmiennej 
